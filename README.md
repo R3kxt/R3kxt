@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R3kxt
 - 👀 I’m interested in basically every kind of tech!
-- 🌱 I’m currently studying General and Digital Forensics
+- 🌱 I’m currently studying General and Digital Forensics at Hochschule Mittweida
 - 💞️ I’m looking to collaborate on ...
 
 
